@@ -1,0 +1,64 @@
+.body{
+    background-color: rgb(255, 255, 255);
+}
+
+.left-container{
+    position: fixed;
+    width: 400px;
+    height: 100%;
+    background-color:rgb(226, 163, 212);
+    padding: 5px;
+    text-align: center;
+
+}
+
+.img{
+    height: 230px;
+    width: 180px;
+    border-radius: 50%;
+    margin-top: 50px;
+
+}
+
+.contact{
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+
+.heading3{
+    font-size: 25px;
+}
+
+.right-container{
+    position: absolute;
+    left: 400px;
+    background-color: beige;
+    padding: 10px;
+    width: 923px;
+
+}
+
+.heading2{
+    background-color: rgb(240, 151, 220);
+    width: 300px;
+    padding: 5px;
+    border-radius: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.progress {
+   width: 50%;
+   height: 20px;
+   background: #d4c7c7;
+  }
+
+.progress::-webkit-progress-bar {
+   background: #d4c7c7;
+  }
+
+.progress::-webkit-progress-value {
+   background: #b453d1;
+  }
+  
